@@ -1,3 +1,4 @@
 # List of files and folders that will be tracked or not tracked
 
 !IAC_Intern_Repo/if_else_statements/tutorial_1*.rb
+.DS_Store
